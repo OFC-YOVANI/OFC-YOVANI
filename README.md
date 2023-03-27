@@ -13,7 +13,16 @@
 </p>
 </div>
 
+ 
+ ### Popular Projects:
+-   [HADES-BOT-MD](https://github.com/OFC-YOVANI/HADES-BOT-MD)
 
+-   [HATSUNE-MIKU](https://github.com/OFC-YOVANI/HATSUNE-MIKU)
+
+-   [HATSUNE-MIKU-ULTRA](https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA)
+<br>
+<br>
+<br>
 ## My Github Status:
 
 <br>
