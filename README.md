@@ -2,6 +2,22 @@
 
 <p align="center"><img title="OFC-YOVANI" .github="https://telegra.ph/file/STK-20230326-WA1059.gif"></p>
 
+## My Github Status:
+
+<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OFC-YOVANI)](https://github.com/OFC-YOVANI)
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=OFC-YOVANI&theme=highcontrast)
+
+<br>
+
+![My Profile Views](https://gpvc.arturio.dev/OFC-YOVANI)
+<br>
+<br>
 
 <a href="https://www.facebook.com/groups/987464505464904/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ta/>
 <a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
