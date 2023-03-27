@@ -1,6 +1,6 @@
 ## hola 👋 Bienvenido, te presento mi perfil ✨
 
-<p align="center"><img title="OFC-YOVANI" .github="VID-20230327-WA0438.mp4"></p>
+<p align="center"><img title="OFC-YOVANI" .github="https://telegra.ph/file/STK-20230326-WA1059.gif"></p>
 
 
 <a href="https://www.facebook.com/groups/987464505464904/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ta/>
