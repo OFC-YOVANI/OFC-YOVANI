@@ -1,6 +1,18 @@
-## hola 👋 Bienvenido, te presento mi perfil ✨
+<p align="center">
+   <a href="https://github.com/OFC-YOVANI">
+    <img src="https://telegra.ph/file/b81cfddc613538af66aa9.jpg" width="800"> </a>
+    </p>
 
-<p align="center"><img title="OFC-YOVANI" .github="https://telegra.ph/file/STK-20230326-WA1059.gif"></p>
+
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=fc7b03&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Fantox;Welcome+to+my+GitHub"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
 
 ## My Github Status:
 
