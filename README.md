@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/OFC-YOVANI">
-    <img src="https://telegra.ph/Yovani-03-27-2.jpg" width="800"> </a>
+    <img src="https://i.imgur.com/lkch77g.jpg" width="800"> </a>
     </p>
 
 
