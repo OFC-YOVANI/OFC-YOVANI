@@ -52,7 +52,7 @@ div align="center">
   <a href="https://github.com/OFC-YOVANI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OFC-YOVANI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-![Snake animation](https://github.com/OFC-YOVANI/OFC-YOVANI/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com//GataNina-Li/blob/output/github-contribution-grid)
 </div>
 
 <!--
