@@ -25,6 +25,8 @@
  ### Popular Projects:
 -   [HADES-BOT-MD](https://github.com/OFC-YOVANI/HADES-BOT-MD)
 
+-   [HADES-BOT-OMEGA](https://github.com/OFC-YOVANI/HADES-BOT-OMEGA)
+
 -   [HATSUNE-MIKU](https://github.com/OFC-YOVANI/HATSUNE-MIKU)
 
 -   [HATSUNE-MIKU-ULTRA](https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA)
